@@ -1,0 +1,30 @@
+.headers{
+    color:#1A3C40;
+    text-align:center;
+}
+#tp{
+    color:#1A3C40;
+}
+.body{
+    background-color: #EDE6DB;
+}
+.ordered{
+    color:#1D5C63;
+    text-align: center;
+}
+.unordered{
+    color:#1d5c63;
+    text-align: center;
+}
+#CMC{
+    color:#1d5c63;
+}
+.class{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    padding:20px;
+    background-color:#417d74;
+    border-radius:50%;
+}
